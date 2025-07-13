@@ -36,7 +36,7 @@ This project demonstrates a **Convolutional Neural Network (CNN)** trained on th
 ### 1. Clone & create a virtual environment
 
 ```bash
-$ git clone https://github.com/your‑username/cifar10‑tkinter.git
+$ git clone https://github.com/Shuv13/Image-Classifier.git
 $ cd cifar10‑tkinter
 $ python -m venv .venv
 $ source .venv/bin/activate      # Windows: .venv\Scripts\activate
